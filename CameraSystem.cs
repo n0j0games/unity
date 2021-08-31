@@ -4,7 +4,7 @@ using UnityEngine.U2D;
 //Requires Pixel-Perfect camera to be installed & added to the "Main Camera" GameObject (or some other camrea)
 //The Camera can be zoomed with the mouse wheel and moved by dragging the middle mouse button
 
-public class CameraSystem : MonoBehaviour
+public class PixelCamera : MonoBehaviour
 {
     /// <summary>The interval in which the camera will zoom in/out</summary>
     public int zoominterval = 2;
