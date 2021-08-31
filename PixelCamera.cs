@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.U2D;
 
 //Requires Pixel-Perfect camera to be installed & added to the "Main Camera" GameObject (or some other camrea)
